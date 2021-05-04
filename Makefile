@@ -1,4 +1,4 @@
-INPUT_FILE:=./resources/house.cap
+INPUT_FILE:=./resources/cube.cap
 
 all: compile apply
 
