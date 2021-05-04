@@ -1,0 +1,14 @@
+(fn translate (x y z) (set CURRENT_POSITION (x y z)))
+
+
+(translate 4 1 1)
+(extrude 1
+    (polygon (
+        (0 0)
+        (0 1)
+        (1 1)
+        (1 0)
+    ))
+)
+
+

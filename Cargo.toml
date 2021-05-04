@@ -1,0 +1,8 @@
+[package]
+name = "compiler"
+version = "0.1.1"
+authors = ["maekoos <markus.stensio@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+conv = "0.3"
