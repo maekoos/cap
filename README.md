@@ -1,4 +1,4 @@
-# cap
+# cap 🧢
 Computer-Aided design lisP
 
 ### Status
